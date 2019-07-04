@@ -1,0 +1,21 @@
+######################################## configuration file ########################################
+#
+#
+# location of the input bif file
+bn_file : input_bn/pathfinder.bif
+#
+#
+# nr of factors to materialize
+k : 5
+#
+#
+# choose an elimination ordering: select ts, rnd, wmf, mf, mn, or mw 
+elimination_order : mf
+#
+# specify workload distribution type: select unif or biasr 
+workload_type : unif
+#
+# variable_label, variable_id, query_file
+queryBy : variable_id
+query : 9,19
+

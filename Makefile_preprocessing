@@ -1,0 +1,2 @@
+all:
+	g++ src/main_preprocess.cc -Wall -std=c++11 -O3 src/utils.cc src/anyoption.cc src/BayesianNetwork.cc src/BayesianNode.cc  src/varElimOrder.cc src/factorTree.cc  src/factor.cc src/dp.cc src/io_utils.cc  -o  main_preprocess
