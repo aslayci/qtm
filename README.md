@@ -13,9 +13,9 @@ It contains all the necessary information on arguments required as input.
 
 # Running from command line
 
-**materialization: ./main_preprocess -c config.txt 
+**materialization:** ./main_preprocess -c config.txt 
 
-**query processing: ./main_queryProcess -c config.txt 
+**query processing:** ./main_queryProcess -c config.txt 
 
 
 
