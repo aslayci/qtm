@@ -1,5 +1,7 @@
-# qtm
-Query the model
+# Query the Model
+
+* Contact author: cigdem.aslay@aalto.fi
+
 
 # Compilation  
 
