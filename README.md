@@ -5,8 +5,10 @@
 
 # Compilation  
 
-**make -f Makefile_preprocessing
-**Make -f Makefile_queryProcessing
+* make -f Makefile_preprocessing
+
+* Make -f Makefile_queryProcessing
+
 
 # Configuration of input files and parameters 
 
